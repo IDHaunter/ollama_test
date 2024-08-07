@@ -1,0 +1,2 @@
+# tokenizers==0.19.1 # calculate tokens in text
+transformers==4.44.0 # calculate tokens in text
